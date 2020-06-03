@@ -3,7 +3,6 @@ body {
   justify-content: center;
   padding: 0px;
   display: flex;
-  border: black solid 2px;
   background-size: 160px;
   margin: 0px;
 }
